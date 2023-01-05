@@ -1,0 +1,1 @@
+When running the code, please modify the variable “file” in the ReadCSV.java. It contains the path of the input file. It is currently configured to my laptop’s path. However, after downloading the source code, please configure the path according to your machine.
